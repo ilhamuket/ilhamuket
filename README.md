@@ -17,8 +17,6 @@
 
 - 📫 How to reach me in formal **muhammadilham6676@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-ilham6](https://www.linkedin.com/in/muhammad-ilham6)
-
 - ⚡ Fun fact **I enjoy sharing new knowledge, learning new things, and more!**
 
 <h3 align="left">Connect with me:</h3>
