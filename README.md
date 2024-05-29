@@ -6,8 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilhamuket" alt="ilhamuket" /></a> </p>
 
 
-- 🌱 I’m currently learning **GoLang for backend development and Nest TypeScript for building scalable web applications.**
-
 - 👯 You can also connect with me on [LinkedIN](https://www.linkedin.com/in/muhammad-ilham6)
 
 - 🤝 or we can connect on [Instagram](https://www.instagram.com/ilhamuket)
