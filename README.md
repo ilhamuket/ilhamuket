@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilhamuket" alt="ilhamuket" /></a> </p>
 
-- 🔭 I’m currently working in [PT Rahadhyan Integrasi Nusantara](https://ayosatu.id)
 
 - 🌱 I’m currently learning **GoLang for backend development and Nest TypeScript for building scalable web applications.**
 
