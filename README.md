@@ -10,7 +10,7 @@
 
 - 🤝 or we can connect on [Instagram](https://www.instagram.com/ilhamuket)
 
-- 💬 Ask me about **PHP, Laravel, Flutter, Vue.js, Node.js, and more!**
+- 💬 Ask me about **PHP, Laravel, Flutter, Vue.js,  and more!**
 
 - 📫 How to reach me in formal **muhammadilham6676@gmail.com**
 
